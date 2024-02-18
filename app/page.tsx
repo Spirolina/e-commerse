@@ -1,8 +1,9 @@
 /* Components */
-import { Counter } from "./components/Counter/Counter";
+import { Counter } from "./components/Products/Counter";
+import Products from "./components/Products/Products";
 
 export default function IndexPage() {
-  return <Counter />;
+  return <Products />;
 }
 
 export const metadata = {
