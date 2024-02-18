@@ -15,7 +15,7 @@ export default function Categories() {
     { value: `men's clothing`, label: `mens's clothing` },
     { value: `women's clothing`, label: `women's clothing` },
     { value: `jewelery`, label: `jewelery` },
-    { value: `Electronics`, label: `electronics` },
+    { value: `electronics`, label: `electronics` },
   ];
 
   return (
